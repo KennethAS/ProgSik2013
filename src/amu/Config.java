@@ -13,5 +13,5 @@ public class Config {
     
     public final static String SALT="NaCl"; // Changing this will invalidate all customer passwords in DB
     
-    // This is a comment
+    // This is a comment...
 }
